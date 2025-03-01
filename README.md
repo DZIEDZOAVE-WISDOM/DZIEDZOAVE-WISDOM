@@ -10,7 +10,7 @@ I'm a data analyst passionate about helping businesses make informed decisions w
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/DZIEDZOAVE-WISDOM/DZIEDZOAVE-WISDOM)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/DZIEDZOAVE-WISDOM)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wisdom-dziedzoave-407970230)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dk_wisdom2/status/1888853141266870353)
 

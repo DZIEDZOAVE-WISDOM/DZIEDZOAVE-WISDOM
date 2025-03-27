@@ -19,6 +19,7 @@ I'm a data analyst passionate about helping businesses make informed decisions w
 1. Microsoft excel
 2. Microsoft Power Bi
 3. SQL-MySQL
+4. Stata
 
 
 ## What I'm currently doing

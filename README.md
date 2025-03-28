@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a data analyst passionate about helping businesses make informed decisions with data to drive exponential growth.
+As a data analyst, I am passionate about transforming raw data into meaningful insights that drive decision-making. I am skilled in using Excel (formulas, pivot tables, data cleaning), SQL (querying, joins, and optimization), Power BI (dashboards, data visualization, and DAX), and Stata (statistical analysis, regression modeling, and data manipulation) to analyze and present data effectively. My goal is to help organizations make data-driven decisions by delivering clear, actionable reports and visualizations.
 
 
 ## 🔗 Links

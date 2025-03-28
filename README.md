@@ -25,7 +25,7 @@ I'm a data analyst passionate about helping businesses make informed decisions w
 ## What I'm currently doing
 👩‍💻 I'm currently  an undergarduate student of econmics in my third year at the kwame nkrumah university of science and technology(KNUST), Ghana.
 
-🧠 looking for internships to sharpen my skills as i work to become a full-stack data analyst.
+🧠 looking for internships to sharpen my skills as I work to become a full-stack data analyst.
 
 
 

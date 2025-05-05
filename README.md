@@ -35,6 +35,7 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 
 ### Telecommunication
 ### 1. [Customer churn analysis](https://github.com/DZIEDZOAVE-WISDOM/Customer-churn-analysis/blob/main/Customer%20churn%20project%20documentation.md)
+### 2. [Call center trends](https://github.com/DZIEDZOAVE-WISDOM/Call-center-trends/blob/main/Project%20documentaion.md)
 
 
 

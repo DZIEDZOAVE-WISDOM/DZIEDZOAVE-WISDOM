@@ -35,8 +35,8 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 ### 3. [Water access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/water%20access%20and%20saniation%20in%20Africa.sql)
 
 ### Telecommunication
-### 1. [Customer churn analysis--Power Bi](https://github.com/DZIEDZOAVE-WISDOM/Customer-churn-analysis/blob/main/Customer%20churn%20project%20documentation.md)
-### 2. [Call center trends--Power Bi](https://github.com/DZIEDZOAVE-WISDOM/Call-center-trends/blob/main/Project%20documentaion.md)
+### 1. [Customer churn analysis](https://github.com/DZIEDZOAVE-WISDOM/Customer-churn-analysis/blob/main/Customer%20churn%20project%20documentation.md)
+### 2. [Call center trends](https://github.com/DZIEDZOAVE-WISDOM/Call-center-trends/blob/main/Project%20documentaion.md)
      
 
 

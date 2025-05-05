@@ -29,7 +29,7 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 
 ## PROJECTS
 
-### healthcare projects.
+### health
 ### 1. [Healthcare access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-access-in-Africa/blob/main/Project%20documentation_health.md)
 ### 2. [US Healthcare analysis](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-analysis/blob/main/Healthcare%20analysis%20documentation.md)
 ### 3. [Water access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/water%20access%20and%20saniation%20in%20Africa.sql)

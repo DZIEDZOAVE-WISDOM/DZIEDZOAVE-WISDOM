@@ -33,6 +33,9 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 ### 1. [Healthcare access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-access-in-Africa/blob/main/Project%20documentation_health.md)
 ### 2. [US Healthcare analysis](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-analysis/blob/main/Healthcare%20analysis%20documentation.md)
 
+### Telecommunication
+### 1. [customer churn analysis](https://github.com/DZIEDZOAVE-WISDOM/Customer-churn-analysis/blob/main/Customer%20churn%20project%20documentation.md)
+
 
 
 

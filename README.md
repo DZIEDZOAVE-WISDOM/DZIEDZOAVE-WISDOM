@@ -28,8 +28,8 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 🧠 looking for internships to sharpen my skills as I work to become a full-stack data analyst.
 
 ## HEALTHCARE PROJECTS
-### Healthcare access in Africa 
-https://github.com/DZIEDZOAVE-WISDOM/Healthcare-access-in-Africa
+### Healthcare access in Africa[ https://github.com/DZIEDZOAVE-WISDOM/Healthcare-access-in-Africa]
+
 
 
 

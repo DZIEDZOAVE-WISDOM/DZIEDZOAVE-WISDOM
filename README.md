@@ -21,7 +21,7 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 3. SQL-MySQL
 4. Stata
 
-## CV
+## Curriculum Vitae
 [Dziedzoave wisdom.Cv](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/wisdom's%20CV.pdf)
 
 

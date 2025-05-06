@@ -21,6 +21,9 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 3. SQL-MySQL
 4. Stata
 
+## CV
+[Dziedzoave wisdom.Cv](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/wisdom's%20CV.pdf)
+
 
 ## What I'm currently doing
 👩‍💻 I'm currently  an undergarduate student of econmics in my third year at the kwame nkrumah university of science and technology(KNUST), Ghana.

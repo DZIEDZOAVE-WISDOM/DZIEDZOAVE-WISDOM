@@ -1,6 +1,6 @@
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=DZIEDZOAVE-WISDOM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![Visitor Count](https://profile-counter.glitch.me/DZIEDZOAVE-WISDOM/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=DZIEDZOAVE-WISDOM&color=brightgreen)
 
 # Hi, I'm Wisdom! 👋
 

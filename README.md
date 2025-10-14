@@ -35,18 +35,18 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 ## PROJECTS
 
 ### Excel
-### 2. [US Healthcare analysis](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-analysis/blob/main/Healthcare%20analysis%20documentation.md)
+###  2. [US Healthcare analysis](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-analysis/blob/main/Healthcare%20analysis%20documentation.md)
 
 ### Power BI
-### 1. [Healthcare access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-access-in-Africa/blob/main/Project%20documentation_health.md)
-### 2. [Customer churn analysis](https://github.com/DZIEDZOAVE-WISDOM/Customer-churn-analysis/blob/main/Customer%20churn%20project%20documentation.md)
-### 3. [Call center trends](https://github.com/DZIEDZOAVE-WISDOM/Call-center-trends/blob/main/Project%20documentaion.md)
+###  1. [Healthcare access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-access-in-Africa/blob/main/Project%20documentation_health.md)
+###  2. [Customer churn analysis](https://github.com/DZIEDZOAVE-WISDOM/Customer-churn-analysis/blob/main/Customer%20churn%20project%20documentation.md)
+###  3. [Call center trends](https://github.com/DZIEDZOAVE-WISDOM/Call-center-trends/blob/main/Project%20documentaion.md)
 
 ### SQL
-### 1. [Water access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/water%20access%20and%20saniation%20in%20Africa.sql)
+###  1. [Water access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/water%20access%20and%20saniation%20in%20Africa.sql)
 
 ### Python
-### 1. [Online Bookstore Web Scrapping & Analysis](Online_Bookstore_Web_Scrapping.ipynb)
+###  1. [Online Bookstore Web Scrapping & Analysis](Online_Bookstore_Web_Scrapping.ipynb)
      
 
 

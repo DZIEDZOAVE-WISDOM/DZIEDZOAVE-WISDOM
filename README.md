@@ -46,7 +46,7 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 ### 1. [Water access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/water%20access%20and%20saniation%20in%20Africa.sql)
 
 ### Python
-### 1. [Online Bookstore Web Scrapping](Online_Bookstore_Web_Scrapping.ipynb)
+### 1. [Online Bookstore Web Scrapping & Analysis](Online_Bookstore_Web_Scrapping.ipynb)
      
 
 

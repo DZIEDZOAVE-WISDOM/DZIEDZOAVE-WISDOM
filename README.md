@@ -35,7 +35,8 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 ## PROJECTS
 
 ### Excel
- ###  2. [US Healthcare analysis](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-analysis/blob/main/Healthcare%20analysis%20documentation.md)
+ ###  1. [US Healthcare analysis](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-analysis/blob/main/Healthcare%20analysis%20documentation.md)
+ ###  2. [Global inc sales](https://github.com/DZIEDZOAVE-WISDOM/Ghana-s-Export-performance-/blob/main/Twumasi_Isaac_%20second%20Assignment.xlsb)
 
 ### Power BI
  ###  1. [Healthcare access in Africa](https://github.com/DZIEDZOAVE-WISDOM/Healthcare-access-in-Africa/blob/main/Project%20documentation_health.md)

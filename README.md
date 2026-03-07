@@ -1,4 +1,4 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=DZIEDZOAVE-WISDOM)
+![Streak Stats](https://streak-stats.demolab.com/?user=DZIEDZOAVE-WISDOM)
 ![Profile Views](https://komarev.com/ghpvc/?username=DZIEDZOAVE-WISDOM&color=brightgreen)
 
 # Hi, I'm Wisdom! 👋

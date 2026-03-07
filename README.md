@@ -1,5 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/DZIEDZOAVE-WISDOM?label=Follow&style=social)
-![GitHub repos](https://img.shields.io/badge/Repos-COUNT-blue)
+![Metrics](https://raw.githubusercontent.com/DZIEDZOAVE-WISDOM/DZIEDZOAVE-WISDOM/main/github-metrics.svg)
 
 
 # Hi, I'm Wisdom! 👋

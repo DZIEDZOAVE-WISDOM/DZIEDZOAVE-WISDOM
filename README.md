@@ -24,7 +24,7 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 
 ## Curriculum Vitae
 
-[Dziedzoave wisdom.Cv](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/wisdom's%20CV.pdf)
+[Dziedzoave wisdom.Cv](https://github.com/DZIEDZOAVE-WISDOM/Water-access-in-Africa/blob/main/Wisdom_Dziedzoave_CV.docx.pdf)
 
 
 ## What I'm currently doing

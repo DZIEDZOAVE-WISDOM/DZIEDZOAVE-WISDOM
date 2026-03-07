@@ -1,5 +1,4 @@
-
-![Logo](https://github-readme-stats.vercel.app/api?username=DZIEDZOAVE-WISDOM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Logo](https://github-readme-stats.vercel.app/api?username=DZIEDZOAVE-WISDOM&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![Profile Views](https://komarev.com/ghpvc/?username=DZIEDZOAVE-WISDOM&color=brightgreen)
 
 # Hi, I'm Wisdom! 👋
@@ -48,11 +47,3 @@ As a data analyst, I am passionate about transforming raw data into meaningful i
 
 ### Python
  ###  1. [Online Bookstore Web Scrapping & Analysis](Online_Bookstore_Web_Scrapping.ipynb)
- 
-
-
-
-
-
-
-

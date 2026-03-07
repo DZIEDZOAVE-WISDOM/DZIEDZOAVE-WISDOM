@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DZIEDZOAVE-WISDOM)
+![trophy](https://github-profile-trophy.vercel.app/?username=DZIEDZOAVE-WISDOM)
 ![Profile Views](https://komarev.com/ghpvc/?username=DZIEDZOAVE-WISDOM&color=brightgreen)
 
 # Hi, I'm Wisdom! 👋

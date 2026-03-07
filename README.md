@@ -1,4 +1,4 @@
-![Metrics](https://raw.githubusercontent.com/DZIEDZOAVE-WISDOM/DZIEDZOAVE-WISDOM/main/github-metrics.svg)
+![Streak Stats](https://streak-stats.demolab.com/?user=DZIEDZOAVE-WISDOM)
 
 
 # Hi, I'm Wisdom! 👋

@@ -1,5 +1,6 @@
-![Streak Stats](https://streak-stats.demolab.com/?user=DZIEDZOAVE-WISDOM)
-![Profile Views](https://komarev.com/ghpvc/?username=DZIEDZOAVE-WISDOM&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/DZIEDZOAVE-WISDOM?label=Follow&style=social)
+![GitHub repos](https://img.shields.io/badge/Repos-COUNT-blue)
+
 
 # Hi, I'm Wisdom! 👋
 

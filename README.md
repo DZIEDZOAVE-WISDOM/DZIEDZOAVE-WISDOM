@@ -16,10 +16,11 @@ I am a data analyst and Economics student passionate about transforming raw data
 
 ## 🛠 Skills
 1. Microsoft excel
-2. Microsoft Power Bi
-3. SQL-MySQL
-4. Stata
-5. Python
+2. Google Sheets
+3. Microsoft Power Bi
+4. SQL-MySQL
+5. Stata
+6. Python
 
 ## Curriculum Vitae
 

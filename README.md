@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I am a data analyst and Economics student passionate about transforming raw data into meaningful insights that drive decision-making. Through my academic background at KNUST and hands-on experience, including an internship at Aya Data, I have developed a robust analytical skill set. I am highly proficient in Excel, SQL (MySQL, PostgreSQL), Power BI, Looker Studio, and Stata for econometric analysis, with growing expertise in Python. Currently advancing my skills through the Google Data Analytics Professional Certificates, I aim to help organizations and individuals make data-driven decisions by delivering clear, actionable reports and financial dashboards.
+I am a data analyst and Economics student passionate about transforming raw data into meaningful insights that drive decision-making. Through my academic background at KNUST and hands-on experience, including an internship at Aya Data, I have developed a robust analytical skill set. I am highly proficient in Excel, SQL (MySQL, PostgreSQL, BigQuery), Power BI, Looker Studio, and Stata for econometric analysis, with growing expertise in Python. Currently advancing my skills through the Google Data Analytics Professional Certificates, I aim to help organizations and individuals make data-driven decisions by delivering clear, actionable reports and financial dashboards.
 
 
 ## 🔗 Links
